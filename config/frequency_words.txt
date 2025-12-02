@@ -35,43 +35,15 @@ DJI
 !车
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
+A股
+中国股市
+股市
+创新药
+翰宇药业
 
 chatgpt
 openai
 sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -92,9 +64,6 @@ ai
 美国
 日本
 韩国
-
-芯片
-光刻机
 
 科技
 
